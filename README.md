@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-myupgrade
-=======
-# myUpgrade
 eCommerce de Productos Tecnológicos
 
 Este proyecto es una plataforma de eCommerce especializada en productos tecnológicos, diseñada para ofrecer una experiencia de usuario fluida y eficiente.
@@ -30,4 +26,3 @@ Características Principales
     Gestión de Carrito: Añade productos al carrito de compras y realiza pedidos de forma sencilla.
     Autenticación de Usuarios: Registro e inicio de sesión de usuarios para una experiencia personalizada.
     Panel de Administración: Gestión de productos y pedidos por parte de los administradores del sitio.
->>>>>>> 69b6c7bc31e5c61b4bc5fe3b60e904ec7c68284e
