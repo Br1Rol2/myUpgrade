@@ -14,7 +14,7 @@ Esta aplicación de eCommerce permite a los usuarios navegar y comprar una ampli
 
 Backend
 
-El backend está construido con PHP, encargado de manejar la lógica del negocio, autenticación de usuarios, y operaciones de CRUD (Crear, Leer, Actualizar, Eliminar) para la gestión de productos y pedidos.
+El backend está construido con PHP, encargado de manejar la lógica del negocio, autenticación de usuarios, y operaciones de CRUD para la gestión de productos y pedidos.
 
 Frontend
 
